@@ -1,0 +1,8 @@
+.fusebox/
+.terraform/
+dist/
+node_modules/
+code.zip
+terraform.tfplan
+terraform.tfstate
+terraform.tfstate.backup
